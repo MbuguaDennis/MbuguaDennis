@@ -1,5 +1,5 @@
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=mbuguadennis&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+![Dennis Mbugua Stats](https://github-readme-stats.vercel.app/api?username=mbuguadennis&theme=synthwave&show_icons=true&count_private=true “Dennis Mbugua GutHub Stats”)
 - 👋 Hi, I’m @MbuguaDennis
 - 👀 I’m interested in  WEB DEVELOPMENT AND DATA ANALYSIS
 - 🌱 I’m currently learning  web development
