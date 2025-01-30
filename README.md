@@ -1,3 +1,5 @@
+
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=mbuguadennis&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 - 👋 Hi, I’m @MbuguaDennis
 - 👀 I’m interested in  WEB DEVELOPMENT AND DATA ANALYSIS
 - 🌱 I’m currently learning  web development
@@ -10,3 +12,4 @@
 MbuguaDennis/MbuguaDennis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
